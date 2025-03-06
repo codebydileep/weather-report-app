@@ -44,5 +44,5 @@ A simple and elegant weather application built using **Python**, **Flask**, and 
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/codebydileep/weather-app.git
    cd weather-app
